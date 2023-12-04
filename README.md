@@ -15,4 +15,4 @@
 <img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-Iniciante, porém apaixonado por programação e novos desafios que possam contribuir para o meu aprendizado
+Apaixonado por programação e novos desafios que possam contribuir para o meu aprendizado
