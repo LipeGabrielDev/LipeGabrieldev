@@ -14,6 +14,8 @@
 
 <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 </div>
 
 Apaixonado por programação e novos desafios que possam contribuir para o meu aprendizado
