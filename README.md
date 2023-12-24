@@ -16,6 +16,8 @@
 
 <img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+<img alt="" src"https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
 </div>
 
 ## Como me contatar 😄
